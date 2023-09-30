@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakshit S K
 - 👀 I’m interested in SpringBoot projects
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and React
 - 💞️ I’m looking to collaborate on SpringBoot projects
 - 📫 How to reach me ...
 - mail: kolkarrakshith@gmail.com
